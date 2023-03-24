@@ -441,6 +441,13 @@ export const BestBuy: Store = {
     },
     {
       brand: 'amd',
+      cartUrl: 'https://api.bestbuy.com/click/-/6537138/cart',
+      model: '7950X3D',
+      series: 'ryzen7950X3D',
+      url: 'https://api.bestbuy.com/click/-/6537138/pdp',
+    },
+    {
+      brand: 'amd',
       cartUrl: 'https://api.bestbuy.com/click/-/6439000/cart',
       model: '5800x',
       series: 'ryzen5800',

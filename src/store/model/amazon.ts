@@ -574,6 +574,14 @@ export const Amazon: Store = {
       url: 'https://www.amazon.com/dp/B0815Y8J9N',
     },
     {
+      brand: 'amd',
+      cartUrl:
+        'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B0BTRH9MNS&Quantity.1=1',
+      model: '7950X3D',
+      series: 'ryzen7950X3D',
+      url: 'https://www.amazon.com/dp/B0BTRH9MNS',
+    },
+    {
       brand: 'sapphire',
       cartUrl:
         'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08PHWJC8X&Quantity.1=1',

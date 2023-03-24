@@ -645,6 +645,15 @@ export const Newegg: Store = {
     {
       brand: 'amd',
       cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819113791',
+      itemNumber: '',
+      model: '7950X3D',
+      series: 'ryzen7950X3D',
+      url: 'https://www.newegg.com/amd-ryzen-9-7950x3d-ryzen-9-7000-series/p/N82E16819113791',
+    },
+    {
+      brand: 'amd',
+      cartUrl:
         'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16819113664',
       itemNumber: '19-113-664',
       model: '5900x',

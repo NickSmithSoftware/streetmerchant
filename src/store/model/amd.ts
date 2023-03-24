@@ -21,11 +21,18 @@ export const Amd: Store = {
     },
     {
       brand: 'amd',
+      cartUrl: 'https://shop-us-en.amd.com/amd-ryzen-9-7950x3d-processor/',
+      model: '7950X3D',
+      series: 'ryzen7950X3D',
+      url: 'https://shop-us-en.amd.com/amd-ryzen-9-7950x3d-processor/',
+    },
+    {
+      brand: 'amd',
       cartUrl:
         'https://www.amd.com/en/direct-buy/5450881400/us?add-to-cart=true',
       model: '5950x',
       series: 'ryzen5950',
-      url: 'https://www.amd.com/en/direct-buy/5450881400/us',
+      url: 'https://shop-us-en.amd.com/amd-ryzen-9-7950x3d-processor/',
     },
     {
       brand: 'amd',

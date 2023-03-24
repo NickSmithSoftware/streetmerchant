@@ -319,6 +319,12 @@ for (const microCenterLocation of microCenterLocations) {
         url: `https://www.microcenter.com/product/630282/amd-ryzen-9-5950x-vermeer-34ghz-16-core-am4-boxed-processor/?storeid=${storeId}`,
       },
       {
+        brand: 'amd',
+        model: '7950X3D',
+        series: 'ryzen7950X3D',
+        url: `https://www.microcenter.com/product/663663/amd-ryzen-9-7950x3d-raphael-am5-42ghz-16-core-boxed-processor-heatsink-not-included/?storeid=${storeId}`,
+      },
+      {
         brand: 'asrock',
         model: 'amd reference',
         series: 'rx6900xt',
